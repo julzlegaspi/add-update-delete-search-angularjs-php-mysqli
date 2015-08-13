@@ -1,2 +1,2 @@
 # PHPandAngularJS
-Simple Add/Update/Delete/Search using PHP and AngularJS
+Simple Add/Update/Delete/Search using PHP/MySQLi and AngularJS
